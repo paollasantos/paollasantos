@@ -1,4 +1,4 @@
-Uma verdadeira amante do conhecimento, sempre em busca de aprender mais e compartilhar conhecimento! 
+✨ Uma verdadeira amante do conhecimento, sempre em busca de aprender mais e compartilhar conhecimento! 
 ##
 <div align="center">
   <a href="https://github.com/paollasantos">
