@@ -1,5 +1,14 @@
 ✨ Uma verdadeira amante do conhecimento, sempre em busca de aprender mais e compartilhar conhecimento! ✨
 ##
+
+<div h4 align="center" 
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/103340200/167506470-7f552f45-3ce8-492f-8922-6087c5c41afc.gif) 
+
+</div>
+
+##
+  
 <div align="center">
   <a href="https://github.com/paollasantos">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paollasantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
