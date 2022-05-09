@@ -1,6 +1,6 @@
-                ✨ Uma verdadeira amante do conhecimento, sempre em busca de aprender mais e compartilhar conhecimento! ✨
 ##
-
+                 ✨ Uma verdadeira amante do conhecimento, sempre em busca de aprender mais e compartilhar conhecimento! ✨
+##
 <div h4 align="center" 
  
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/103340200/167512040-ab1e0c0b-3d35-4f2d-914b-d5ef08dfe2a9.gif) 
